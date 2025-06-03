@@ -27,4 +27,4 @@ fields:
     description: Summary of pedestrian and vehicle access arrangements
   - field: estimated-new-jobs
     description: Estimated number of new jobs the development will create
-----
+---
